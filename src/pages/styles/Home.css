@@ -1,0 +1,13 @@
+.home-menu-box {
+    margin: 20vh auto;
+    padding: 2%;
+    width: 50vh;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.5);
+}
+
+.link-menu {
+    display: flex;
+    justify-content: space-around;
+}
